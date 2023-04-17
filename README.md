@@ -1,4 +1,4 @@
-# Ubuntu Flavor Installer
+# Ubuntu Hyprland Remix Installer
 
 [Ubuntu Desktop Installer](https://github.com/canonical/ubuntu-desktop-installer)
 starting point for Ubuntu flavors.
